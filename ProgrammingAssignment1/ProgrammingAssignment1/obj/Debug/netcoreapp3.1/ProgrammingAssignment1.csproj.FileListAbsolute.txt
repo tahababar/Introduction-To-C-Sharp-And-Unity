@@ -1,0 +1,24 @@
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.deps.json
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.json
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.dev.json
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csprojAssemblyReference.cache
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfoInputs.cache
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfo.cs
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/tahababar/Desktop/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.genruntimeconfig.cache
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.deps.json
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.json
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.runtimeconfig.dev.json
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/bin/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csprojAssemblyReference.cache
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfoInputs.cache
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.AssemblyInfo.cs
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.dll
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.pdb
+/Users/tahababar/Desktop/Practice Unity and C#/VS Projects/ProgrammingAssignment1/ProgrammingAssignment1/obj/Debug/netcoreapp3.1/ProgrammingAssignment1.genruntimeconfig.cache
